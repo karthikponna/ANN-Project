@@ -17,3 +17,7 @@ The dataset used for training and testing the model is from the 'Churn_Modelling
   
 # Results
 The trained ANN model achieved an accuracy of 86.05% on the test set. The confusion matrix provides insights into the model's performance, showing the number of true positives, true negatives, false positives, and false negatives.
+- True Positives (TP): 205 instances were correctly predicted as customers who left the bank.
+- True Negatives (TN): 1516 instances were correctly predicted as customers who stayed in the bank.
+- False Positives (FP): 79 instances were incorrectly predicted as customers who left the bank.
+- False Negatives (FN): 200 instances were incorrectly predicted as customers who stayed in the bank.
