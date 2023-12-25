@@ -7,7 +7,7 @@ The dataset used for training and testing the model is from the 'Churn_Modelling
 
 # Code Structure
 - artificial_neural_network.ipynb: Jupyter Notebook containing the Python code for loading the dataset, preprocessing, building, training, and evaluating the ANN model.
-= Churn_Modelling.csv: The dataset used for training and testing the model.
+- Churn_Modelling.csv: The dataset used for training and testing the model.
 
 # Dependencies
 - NumPy
